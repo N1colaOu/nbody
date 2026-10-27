@@ -1,4 +1,4 @@
-# Kralica
+# N-Body
 
 Kralica is a modular C++ N-body simulation framework with configurable force fields, multiple integrators, CSV logging, and Python-based animation. The goal of this project was to learn some more modern C++ and to exercise what I already knew.
 
